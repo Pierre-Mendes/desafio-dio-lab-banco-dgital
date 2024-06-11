@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/conta-digital/conta-digital.iml" filepath="$PROJECT_DIR$/src/main/java/conta-digital/conta-digital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/desafio-dio-lab-banco-digital.iml" filepath="$PROJECT_DIR$/.idea/desafio-dio-lab-banco-digital.iml" />
+    </modules>
+  </component>
+</project>
